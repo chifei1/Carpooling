@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"1105959611","appkey":"J7ZXz5YcYjRkiNM0","callback":"app.cf/Connect2.1/example/oauth/callback.php","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
