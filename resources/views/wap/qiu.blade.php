@@ -31,7 +31,7 @@
         </div>		</div>
 </div>
 <div class="nav">
-    <a href="index"><button id="cum"><img src="{{asset('resources/views/wap/images/owner.png')}}" align="top" /><span>找车主</span></button></a>
+    <a href="indexs"><button id="cum"><img src="{{asset('resources/views/wap/images/owner.png')}}" align="top" /><span>找车主</span></button></a>
     <a href="people"><button id="owner"><img src="{{asset('resources/views/wap/images/cum.png')}}" align="top" /><span>找乘客</span></button></a>
 </div>
 <div class="content">

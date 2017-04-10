@@ -92,7 +92,7 @@ class IndexController extends Controller
     {
         $input = Input::all();
         Pinche::where('id',$input['id'])->update(['status'=>2]);
-        return redirect('wap/index');
+        return redirect('wap/indexs');
     }
 
     //找乘客

@@ -1,5 +1,5 @@
 <div class="footer">
-    <a class="home " href="index">
+    <a class="home " href="indexs">
         <img src="{{asset('resources/views/wap/images/home2.png')}}"/>
         <span>首页</span>
     </a>
