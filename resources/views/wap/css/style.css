@@ -42,7 +42,7 @@ input-placeholder{line-height:inherit; color:inherit;}
 .content .ttl{padding:0.5rem 5%; overflow:hidden;}
 .content .ttl img{ display:block; float:left; height:1.5em;}
 .content .ttl span{ display:block; float:left; font-size:1em; margin-top:0.1em; margin-left:0.2em; color:#999;}
-.content .list{ border-top:solid 1px #ccc;border-bottom:solid 1px #ccc; padding:0 ; overflow:auto;}
+.content .list{ border-top:solid 1px #ccc;border-bottom:solid 1px #ccc; padding:0 1em ; overflow:auto;}
 .content .list li{ overflow:hidden; border-bottom:solid 1px #ccc;}
 .content .list li .col a{ color:#4d4d4d;}
 .content .list li:last-child{ border:none;padding:10px 20px;}
